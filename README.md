@@ -1,5 +1,5 @@
-# testrepo
-Test repository for Coursera IBM Data Science Professional Certificate Course
+# IBMDataScience
+Repository for Coursera IBM Data Science Professional Certificate Course
 
 ## Editing the file
 
